@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/FileExplorer/v15
+/FileExplorer/bin/Debug
+/FileExplorer/obj/Debug
